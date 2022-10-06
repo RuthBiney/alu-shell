@@ -25,6 +25,6 @@ while [ "$hour" -le 12 ]; do
 
 
 
-	  	hour=$((hour + 1 ))
+	  	hour=$((hour + 1)) 
 
 	done
