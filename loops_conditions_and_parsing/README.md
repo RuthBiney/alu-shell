@@ -1,1 +1,1 @@
-This project is about loops, conditions and parsing
+#!/usr/bin/env bash
