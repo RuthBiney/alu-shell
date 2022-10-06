@@ -2,5 +2,5 @@
 # This script displays BEST School 10 times using the loop
 
 for ((x = 1; x<= 10; x++));do
-	    echo "Best School"`
-    done
+	    echo "Best School"
+done
