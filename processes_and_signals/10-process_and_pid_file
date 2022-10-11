@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # A script that creates the file /var/run/myscript.pid containind itsPID
 
-file="/var/run/myscript.pid
+file="/var/run/myscript.pid"
 if [ ! -e "$file" ]; then
 	touch "$file"
 fi
